@@ -67,6 +67,8 @@ Machine learning model with EDA, preprocessing and deployment.
 <img src="https://github-profile-trophy.vercel.app/?username=Tanishqsahu&theme=tokyonight&no-frame=true&margin-w=10" />
 
 ---
+![GitHub Contribution Snake](https://githubusercontent.com)
+
 
 
 
