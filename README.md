@@ -52,7 +52,7 @@ Machine learning model with EDA, preprocessing and deployment.
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tanishqsahu&show_icons=true&theme=tokyonight" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanishqsahu&show_icons=true&theme=tokyonight)](https://github.com/Tanishqsahu)
 
 ---
 
