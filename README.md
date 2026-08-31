@@ -68,7 +68,10 @@ Machine learning model with EDA, preprocessing and deployment.
 
 ---
 
-![GitHub Contribution Snake](https://githubusercontent.com)
+
+<img src="https://githubusercontent.com" alt="GitHub Contribution Snake" />
+
+---
 
 
 
